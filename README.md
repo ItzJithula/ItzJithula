@@ -43,7 +43,7 @@ I am currently based in **Sri Lanka** and work at **Bit X TM**. As a self-procla
 
 ## Skills & Technologies
 
-html,css,mysql,git,github,docker,py,mongodb,express,cpp,js,arduino,bash,discord,bots,bitbucket,debian,blender,githubactions,instagram,linkedin,gitlab,gmail,heroku,ai,kali,netlify,linux,postgres,redis,nodejs,powershell,nix,replit,windows,wordpress,twitter,ubuntu,visualstudio,vercel,yarn,vscode
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,git,github,docker,py,mongodb,express,cpp,js,arduino,bash,discord,bots,bitbucket,debian,blender,githubactions,instagram,linkedin,gitlab,gmail,heroku,ai,kali,netlify,linux,postgres,redis,nodejs,powershell,nix,replit,windows,wordpress,twitter,ubuntu,visualstudio,vercel,yarn,vscode&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
